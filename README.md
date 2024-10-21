@@ -1,2 +1,3 @@
-Solutions for Data Science competitions 
+Solutions for Data Science competitions   
+
 Python, R
