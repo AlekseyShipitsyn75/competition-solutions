@@ -2,6 +2,7 @@
 # Loan Prediction 
 # http://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii 
 # author: Aleksey Shipitsyn
+# 2016-07-25
 
 ################################################################################
 # function for finding sample mode

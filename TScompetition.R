@@ -2,6 +2,7 @@
 # Competition - Time Series Analysis
 # https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/
 # author: Aleksey Shipitsyn
+# 2017-10-16
 
 #-------------------------------------------------------------------------------
 # Extract features from date-time

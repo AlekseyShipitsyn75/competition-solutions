@@ -1,6 +1,8 @@
 ################################################################################
 # Footfall parks competition
 # author: Aleksey Shipitsyn
+# 2016-09-28
+
 ################################################################################
 # read and preprocess data
 train <- read.csv('Train_xyqdbho.csv', sep = ',', stringsAsFactors = FALSE)

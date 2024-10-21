@@ -1,6 +1,8 @@
 #-------------------------------------------------------------------------------
 # Urban Sound Classification
 # author: Aleksey Shipitsyn
+# 2017-12-22
+
 #-------------------------------------------------------------------------------
 # install.packages(c("fftw","tuneR","rgl","rpanel"), repos="http://cran.at.r-project.org/")
 # install.packages("seewave", repos="http://cran.at.r-project.org/")
