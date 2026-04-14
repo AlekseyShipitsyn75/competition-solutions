@@ -5,9 +5,16 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
+📬 Contact: Aleksey Shipitsyn [LinkedIn](https://www.linkedin.com/in/aleksey-shipitsyn-53417431)
+
+Feel free to reach out if you have any questions about my methodologies or if you want to discuss potential collaborations!
+
+---
 Welcome to my repository of Data Science and Machine Learning competition solutions. This repository contains my code, exploratory data analysis (EDA), and modeling pipelines for various public competitions (e.g., Kaggle, DrivenData, Zindi) where I have consistently achieved **top-10% leaderboard placements**.
 
 The solutions provided here are implemented using **Python**, **R**, and **Jupyter Notebooks**, focusing on clean code, reproducibility, and advanced feature engineering.
+
+
 
 ## 🗂️ Table of Contents / Solutions List
 
@@ -232,13 +239,3 @@ Below is a breakdown of the competitions, the problem statements, and the specif
   * Feature standardization using Scikit-Learn's `StandardScaler`.
   * *Result:* Achieved a top 17.1% rank (396th out of 2,320 participants).
 * **ML Models:** Multiple Linear Regression, Lasso Regression, Ridge Regression (selected as the final model), and XGBoost (Random Forest Regressor variant `XGBRFRegressor`).
-
-
----
-
-📬 Contact
-Aleksey Shipitsyn [LinkedIn](https://www.linkedin.com/in/aleksey-shipitsyn-53417431)
-
-Feel free to reach out if you have any questions about my methodologies or if you want to discuss potential collaborations!
-
-
